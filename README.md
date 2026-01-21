@@ -1,6 +1,6 @@
 # Avery Bennett
 
-## Home
+## Home [https://github.com/averybbennett-ctrl/averybennett.github.io.wiki.git](url)
 
 **Honours Economics (BA) Student**  
 at the University of Waterloo  
@@ -24,13 +24,13 @@ Selected academic and applied projects.
 ## CV
 View or download my CV.  
 ➡️ [Resume](CV)
-CV
+
 
 ---
 
 ## Contact
 Get in touch or connect with me.  
--> Email: avery.bennett@uwaterloo.ca
--> Phone: (519)716-0081
--> Linkedin: www.linkedin.com/in/avery-bennett-7489ab337
+* Email: avery.bennett@uwaterloo.ca
+* Phone: (519)716-0081
+* Linkedin: www.linkedin.com/in/avery-bennett-7489ab337
 
