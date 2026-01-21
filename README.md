@@ -25,6 +25,7 @@ Selected academic and applied projects.
 ## Resume
 View or download my resume.  
 ➡️ [Resume](Resume)
+https://github.com/averybbennett-ctrl/averybennett.github.io.wiki.git
 
 ---
 
