@@ -1,6 +1,9 @@
 # Avery Bennett
 ## Honours Economics (BA) Student at the University of Waterloo 
+
 ![University of Waterloo Logo](uw.svg)
+
+---
 
 ## Home
 
@@ -16,7 +19,6 @@ I am a third-year Honours Economics student at the University of Waterloo, speci
 Throughout my undergraduate studies, I have cultivated expertise in econometrics, microeconomic theory, and the historical evolution of economic thought, exploring how past policies inform contemporary economic challenges. My coursework and research projects have provided extensive experience in data analysis, regression modeling, and empirical evaluation, equipping me with the tools to analyze real-world economic phenomena critically and systematically.
 
 Looking past graduation in 2027, I plan to continue my studies by pursuing a Master’s degree in Economics, with the goal of contributing to research and policy development that bridges theoretical insight with practical application.
-
 
 ---
 
@@ -43,7 +45,7 @@ View or download my CV.
 
 ## Contact
 Feel free to get in touch or connect with me! 
-* Email: avery.bennett@uwaterloo.ca
+* Email: [avery.bennett@uwaterloo.ca](avery.bennett@uwaterloo.ca)
 * Phone: (519)716-0081
-* Linkedin: www.linkedin.com/in/avery-bennett-7489ab337
+* Linkedin: [www.linkedin.com/in/avery-bennett-7489ab337](www.linkedin.com/in/avery-bennett-7489ab337)
 
