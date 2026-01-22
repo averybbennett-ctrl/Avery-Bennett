@@ -30,12 +30,15 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 ---
 
 ## Past Projects
-**Ontario Minimum Wage Policy Analysis** [Click here to view](Understanding the Social Implications of Ontario’s Minimum Wage Policy.pdf)  
+**Ontario Minimum Wage Policy Analysis**
 - Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
 - Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
 - Used empirical data to assess employment trends, poverty reduction, income distribution, and business performance, highlighting trade-offs between worker protection and economic impact.  
 - Findings indicate that while wage increases improve financial security, productivity, and aggregate spending, they pose challenges for small businesses, may lead to job reductions for youth and part-time workers, and require careful policy design to minimize negative externalities.  
-- Policy recommendations included gradual, indexed wage increases, targeted support for small businesses, and enhanced social welfare programs to mitigate inequities and improve outcomes.  
+- Policy recommendations included gradual, indexed wage increases, targeted support for small businesses, and enhanced social welfare programs to mitigate inequities and improve outcomes.
+<a href="Understanding%20the%20Social%20Implications%20of%20Ontario%E2%80%99s%20Minimum%20Wage%20Policy.pdf" target="_blank">
+Click here to view my Minimum Wage Paper
+</a>
 
 ## Current Projects
 **Causal Analysis of Goalie Performance**  
