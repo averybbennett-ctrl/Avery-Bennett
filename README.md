@@ -20,12 +20,15 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 
 ---
 
-## Projects
+## Past Projects
 **Ontario Minimum Wage Policy Analysis**  
-- Conducted a comprehensive 11 page analysis of Ontario’s minimum wage policy, evaluating both social costs and benefits.  
-- Applied regression models using R to study the impact of minimum wage changes on employment, hours worked, and firm behavior. 
-- Analyzed externalities and stakeholder impacts to provide evidence-based policy recommendations.  
+- Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
+- Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
+- Used empirical data to assess employment trends, poverty reduction, income distribution, and business performance, highlighting trade-offs between worker protection and economic impact.  
+- Findings indicate that while wage increases improve financial security, productivity, and aggregate spending, they pose challenges for small businesses, may lead to job reductions for youth and part-time workers**, and require careful policy design to minimize negative externalities.  
+- Policy recommendations included gradual, indexed wage increases, targeted support for small businesses, and enhanced social welfare programs to mitigate inequities and improve outcomes.  
 
+## Current Projects
 **Causal Analysis of Goalie Performance**  
 - Investigated the causal effect of the number of starts on goalie performance in professional hockey.  
 - Cleaned and analyzed datasets, applying regression and econometric techniques to determine the relationship between playing time and save percentage.  
@@ -34,8 +37,7 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 ---
 
 ## CV
-View or download my CV.  
-➡️ [Resume](CV)
+View or download my CV.
 
 ---
 
