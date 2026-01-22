@@ -1,9 +1,8 @@
 # Avery Bennett
+## Honours Economics (BA) Student at the University of Waterloo 
 ![University of Waterloo Logo](uw.svg)
 
 ## Home
-
-**Honours Economics (BA) Student at the University of Waterloo**  
 
 Welcome to my academic and professional portfolio.  
 This site highlights my coursework, projects, and applied work in economics.
@@ -26,14 +25,14 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 - Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
 - Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
 - Used empirical data to assess employment trends, poverty reduction, income distribution, and business performance, highlighting trade-offs between worker protection and economic impact.  
-- Findings indicate that while wage increases improve financial security, productivity, and aggregate spending, they pose challenges for small businesses, may lead to job reductions for youth and part-time workers**, and require careful policy design to minimize negative externalities.  
+- Findings indicate that while wage increases improve financial security, productivity, and aggregate spending, they pose challenges for small businesses, may lead to job reductions for youth and part-time workers, and require careful policy design to minimize negative externalities.  
 - Policy recommendations included gradual, indexed wage increases, targeted support for small businesses, and enhanced social welfare programs to mitigate inequities and improve outcomes.  
 
 ## Current Projects
 **Causal Analysis of Goalie Performance**  
 - Investigated the causal effect of the number of starts on goalie performance in professional hockey.  
-- Cleaned and analyzed datasets, applying regression and econometric techniques to determine the relationship between playing time and save percentage.  
-- Developed a Two Stage Least Squares model in R code, with visualizations to summarize findings.  
+- Cleaned and analyzed datasets, applying regression and econometric techniques to determine the relationship between the number of starts and save percentage.  
+- Developed a Two Stage Least Squares model in R code, with visualizations to summarize findings.
 
 ---
 
@@ -43,7 +42,7 @@ View or download my CV.
 ---
 
 ## Contact
-Feel free to get in touch or connect with me.  
+Feel free to get in touch or connect with me! 
 * Email: avery.bennett@uwaterloo.ca
 * Phone: (519)716-0081
 * Linkedin: www.linkedin.com/in/avery-bennett-7489ab337
