@@ -1,7 +1,14 @@
-# Avery Bennett
-## Honours Economics (BA) Student at the University of Waterloo 
-
-![University of Waterloo Logo](uw.svg)
+<table style="border-collapse: collapse; border: 0;">
+<tr>
+<td style="border: 0; padding: 0;">
+  <img src="uw.svg" alt="University of Waterloo Logo" width="180" style="display: block;">
+</td>
+<td style="border: 0; padding-left: 30px; vertical-align: middle;">
+  <h1 style="font-size: 5em; font-weight: 900; margin: 0; text-decoration: none;">Avery Bennett</h1>
+  <h2 style="font-size: 2.5em; font-weight: 900; margin: 0; text-decoration: none;">Honours Economics (BA) Student at the University of Waterloo</h2>
+</td>
+</tr>
+</table>
 
 ---
 
