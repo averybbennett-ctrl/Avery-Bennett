@@ -30,7 +30,7 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 ---
 
 ## Past Projects
-**Ontario Minimum Wage Policy Analysis**  
+**Ontario Minimum Wage Policy Analysis** [Click here to view](Understanding the Social Implications of Ontario’s Minimum Wage Policy.pdf)  
 - Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
 - Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
 - Used empirical data to assess employment trends, poverty reduction, income distribution, and business performance, highlighting trade-offs between worker protection and economic impact.  
