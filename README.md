@@ -1,8 +1,6 @@
-
-
 <table style="border-collapse: collapse; border: 0;">
 <tr>
-<td style="border: 0; padding: 0;">
+<td style="border: 0; padding: 20px 0 0 0;"> <!-- top padding added -->
   <img src="uw.svg" alt="University of Waterloo Logo" width="220" style="display: block;">
 </td>
 <td style="border: 0; padding-left: 30px; vertical-align: middle;">
