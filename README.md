@@ -43,8 +43,8 @@ Click here to view my Minimum Wage Paper
 
 ## Current Projects
 **Causal Analysis of Goalie Performance**  
-- Investigating the causal effect of workload on productivity using professional hockey goaltenders, where labor (input) is measured by the number of starts and output is observed through save percentage.
-- We will examine how additional starts affect goaltender performance while controlling for individual and team characteristics, providing evidence on how increased labor generates diminishing returns in a high-stakes, performance-based labor market.
+- Investigating the causal effect of workload on productivity using professional hockey goaltenders, where labour (input) is measured by the number of starts and output is observed through save percentage.
+- We will examine how additional starts affect goaltender performance while controlling for individual and team characteristics, providing evidence on how increased labour generates diminishing returns in a high-stakes, performance-based labor market.
 - Cleaned and analyzed datasets, applying regression and econometric techniques to determine the causal relationship between the number of starts and save percentage.  
 - Developed a plm and Two Stage Least Squares model in R code, with visualizations to summarize findings.
 
