@@ -55,7 +55,7 @@ Click here to view my Goalies data & model (formative/rough)
 ---
 
 ## CV
-<a href="CV-2.pdf" target="_blank">
+<a href="CV.pdf" target="_blank">
 Click here to view my CV
 </a>
 
