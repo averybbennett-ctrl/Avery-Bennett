@@ -21,7 +21,7 @@ This site highlights my coursework, projects, and applied work in economics.
 
 ## About Me
 
-I am a third-year Honours Economics student at the University of Waterloo, specializing in Econometrics. My academic journey has been shaped by a deep interest in applying quantitative methods to complex economic questions, combining rigorous statistical analysis with a nuanced understanding of economic theory and history. 
+I am a third-year Honours Economics student at the University of Waterloo, specializing in Econometrics. My academic journey has been shaped by a deep interest in applying quantitative methods to complex economic questions, combining rigorous statistical analysis with a nuanced understanding of economic theory. 
 
 Throughout my undergraduate studies, I have developed a deep interest in microeconomic theory, econometrics, labour economics, and the historical evolution of economic thought, exploring how past policies inform contemporary economic challenges. My coursework and research projects have provided extensive experience in data analysis, regression modeling,  theory application, and research, equipping me with the tools to analyze real-world economic phenomena critically and systematically.
 
@@ -29,7 +29,16 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 
 ---
 
-## Past Projects
+## Projects
+**An Econometric Approach to Estimating the Return to Graduate Degrees Relative to Bachelor’s Degrees Across Canada**
+- Cleaned and analyzed 2021 Canadian Census microdata (N = 127,765).
+- Applied OLS, interaction models, and Tobit (MLE) estimation.
+- Explored challenges like heteroskedasticity, biasedness, and endogeneity.
+- Attempted IV (2SLS) approaches.
+- Found that returns to graduate education vary significantly across provinces.
+- Identified how labour market structure may correlate with how graduate degrees are valued.
+
+
 **Ontario Minimum Wage Policy Analysis**
 - Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
 - Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
@@ -41,7 +50,7 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 Click here to view my Minimum Wage Paper
 </a>
 
-## Current Projects
+## Working Projects
 **Causal Analysis of Goalie Performance**  
 - Investigating the causal effect of workload on productivity in the short-run, using NHL goaltender data from the 2024-2025 season, where labour (input) is measured by the number of starts, back to back games, and days of rest, and output is observed through save percentage and goals against average.
 - We will examine how additional starts affect goaltender performance while controlling for individual characteristics, providing evidence on how increased labour generates diminishing returns, as well as explore the ambiguity in how inefficiencies like fatigue may reach a point of generating negative returns.
