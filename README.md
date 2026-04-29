@@ -38,6 +38,9 @@ Looking past graduation in 2027, I plan to continue my studies by pursuing a Mas
 - Found that returns to graduate education vary significantly across provinces.
 - Identified how labour market structure may correlate with how graduate degrees are valued.
 
+<a href="ECON421-Project.pdf" target="_blank">
+Click here to view my Returns to Graduate Education Paper
+</a>
 
 **Ontario Minimum Wage Policy Analysis**
 - Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
