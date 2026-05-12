@@ -48,11 +48,6 @@ Click here to view my Minimum Wage Paper
 - Investigating the causal effect of workload on productivity in the short-run, using NHL goaltender data from the 2024-2025 season, where labour (input) is measured by the number of starts, back to back games, and days of rest, and output is observed through save percentage and goals against average.
 - We will examine how additional starts affect goaltender performance while controlling for individual characteristics, providing evidence on how increased labour generates diminishing returns, as well as explore the ambiguity in how inefficiencies like fatigue may reach a point of generating negative returns.
 - Cleaned and analyzed datasets, applying regression and econometric techniques to determine the causal relationship between measures of workload and save percentage.  
-- Developed a plm model in R code, with visualizations to summarize findings.
-
-<a href="Goalies.pdf" target="_blank">
-Click here to view my Goalies data & model (formative/rough)
-</a>
 
 ---
 
@@ -64,7 +59,6 @@ Click here to view my CV
 ---
 
 ## Contact
-Feel free to get in touch or connect with me! 
 * Email: [avery.bennett@uwaterloo.ca](mailto:avery.bennett@uwaterloo.ca)
 * Phone: (519)716-0081
 * LinkedIn: [https://www.linkedin.com/in/avery-bennett-7489ab337](https://www.linkedin.com/in/avery-bennett-7489ab337)
