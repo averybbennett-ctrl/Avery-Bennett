@@ -12,20 +12,10 @@
 
 ---
 
-## Home
+## About
 
 Welcome to my academic and professional portfolio.  
 This site highlights my coursework, projects, and applied work in economics.
-
----
-
-## About Me
-
-I am a third-year Honours Economics student at the University of Waterloo, specializing in Econometrics. My academic journey has been shaped by a deep interest in applying quantitative methods to complex economic questions, combining rigorous statistical analysis with a nuanced understanding of economic theory. 
-
-Throughout my undergraduate studies, I have developed a deep interest in microeconomic theory, econometrics, labour economics, and the historical evolution of economic thought, exploring how past policies inform contemporary economic challenges. My coursework and research projects have provided extensive experience in data analysis, regression modeling,  theory application, and research, equipping me with the tools to analyze real-world economic phenomena critically and systematically.
-
-Looking past graduation in 2027, I plan to continue my studies by pursuing a Master’s degree in Economics, with the goal of contributing to research that bridges theoretical insight with practical application.
 
 ---
 
