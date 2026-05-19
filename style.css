@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Cormorant+SC:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Josefin+Sans:wght@300;400&display=swap');
 
 body {
-  font-family: 'Crimson Pro', Georgia, serif;
+  font-family: 'EB Garamond', Georgia, serif;
   font-size: 18px;
   line-height: 1.75;
   color: #111;
@@ -21,9 +21,9 @@ nav {
   margin-bottom: 2.5rem;
 }
 nav a {
-  font-family: 'Cormorant SC', serif;
-  font-size: 0.85rem;
-  letter-spacing: 0.06em;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
   text-decoration: none;
   color: #777;
 }
@@ -31,7 +31,7 @@ nav a:hover, nav a b { color: #185FA5; }
 
 /* Headings replaced by mono labels */
 h2 {
-  font-family: 'DM Mono', monospace;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 0.7rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -50,4 +50,4 @@ a:hover { border-bottom-color: #185FA5; }
 /* Publication entries */
 .pub { padding-left: 1rem; border-left: 2px solid #ddd; margin-bottom: 1.25rem; }
 .pub:hover { border-left-color: #378ADD; }
-.pub .venue { font-family: 'DM Mono', monospace; font-size: 0.75rem; color: #185FA5; }
+.pub .venue { font-family: 'Josefin Sans', sans-serif; font-size: 0.75rem; color: #185FA5; }
