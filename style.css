@@ -14,20 +14,32 @@ body {
 /* Nav */
 nav {
   display: flex;
-  gap: 1.5rem;
-  border-top: 1.5px solid #378ADD;
-  border-bottom: 1px solid #85B7EB;
-  padding: 0.6rem 0;
+  align-items: center;
+  gap: 0;
+  border-top: 1px solid #378ADD;
+  border-bottom: 1px solid #378ADD;
+  padding: 0.75rem 0;
   margin-bottom: 2.5rem;
 }
+
 nav a {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 0.78rem;
-  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  font-weight: 300;
+  letter-spacing: 0.15em;
   text-decoration: none;
   color: #777;
+  padding: 0 1.25rem;
 }
-nav a:hover, nav a b { color: #185FA5; }
+
+nav a:first-child { padding-left: 0; }
+nav a:last-child { padding-right: 0; }
+
+nav .sep {
+  color: #bbb;
+  font-weight: 300;
+  font-size: 0.85rem;
+}
 
 /* Headings replaced by mono labels */
 h2 {
