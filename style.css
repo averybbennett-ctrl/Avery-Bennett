@@ -8,10 +8,10 @@ body {
   font-family: 'Libre Baskerville', serif;
   line-height: 1.75;
   color: #111;
-  max-width: 680px;
-  margin: 48px auto;
-  padding: 0 24px;
-  background: #faf9f7;
+  max-width: 100%;
+  margin: 48px 0;
+  padding: 0 48px;
+  background: #ffffff;
 }
 
 /* Nav */
