@@ -12,54 +12,9 @@
 
 ---
 
-## About
-
-Welcome to my academic and professional portfolio.  
-This site highlights my coursework, projects, and applied work in economics.
-
----
-
-## Projects
-**An Econometric Approach to Estimating the Return to Graduate Degrees Relative to Bachelor’s Degrees Across Canada**
-- Cleaned and analyzed 2021 Canadian Census microdata (N = 127,765).
-- Applied OLS, interaction models, and Tobit (MLE) estimation.
-- Explored challenges like heteroskedasticity, biasedness, and endogeneity.
-- Attempted IV (2SLS) approaches.
-- Found that returns to graduate education vary significantly across provinces.
-- Identified how labour market structure may correlate with how graduate degrees are valued.
-
-<a href="ECON421-Project.pdf" target="_blank">
-Click here to view my Returns to Graduate Education Paper
-</a>
-
-**Ontario Minimum Wage Policy Analysis**
-- Conducted a comprehensive analysis of Ontario’s minimum wage policy, combining qualitative and quantitative methods to evaluate its social costs, benefits, and stakeholder impacts.  
-- Examined historical context, policy evolution, and economic theory, including Efficiency Wage Theory, Neoclassical Theory, and Post-Keynesian Institutional approaches.  
-- Used empirical data to assess employment trends, poverty reduction, income distribution, and business performance, highlighting trade-offs between worker protection and economic impact.  
-- Findings indicate that while wage increases improve financial security, productivity, and aggregate spending, they pose challenges for small businesses, may lead to job reductions for youth and part-time workers, and require careful policy design to minimize negative externalities.  
-- Policy recommendations included gradual, indexed wage increases, targeted support for small businesses, and enhanced social welfare programs to mitigate inequities and improve outcomes.
-
-<a href="ECON 241 Term Paper.pdf" target="_blank">
-Click here to view my Minimum Wage Paper
-</a>
-
 ## Working Projects
 **Causal Analysis of Goalie Performance**  
 - Investigating the causal effect of workload on productivity in the short-run, using NHL goaltender data from the 2024-2025 season, where labour (input) is measured by the number of starts, back to back games, and days of rest, and output is observed through save percentage and goals against average.
 - We will examine how additional starts affect goaltender performance while controlling for individual characteristics, providing evidence on how increased labour generates diminishing returns, as well as explore the ambiguity in how inefficiencies like fatigue may reach a point of generating negative returns.
 - Cleaned and analyzed datasets, applying regression and econometric techniques to determine the causal relationship between measures of workload and save percentage.  
-
----
-
-## CV
-<a href="CV.pdf" target="_blank">
-Click here to view my CV
-</a>
-
----
-
-## Contact
-* Email: [avery.bennett@uwaterloo.ca](mailto:avery.bennett@uwaterloo.ca)
-* Phone: (519)716-0081
-* LinkedIn: [https://www.linkedin.com/in/avery-bennett-7489ab337](https://www.linkedin.com/in/avery-bennett-7489ab337)
 
