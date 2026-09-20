@@ -106,14 +106,18 @@ ul.project-list > li:last-child {
   border-bottom: none;
   margin-bottom: 0;
   padding-bottom: 0;
-}
-ul.project-list > li > a {
+.project-title {
   font-family: "Bodoni Moda", Georgia, serif;
   font-weight: 600;
   font-size: 1.3rem;
+  margin-bottom: 0.35rem;
+}
+
+.project-title + a {
   color: var(--ink);
   text-decoration: none;
   border-bottom: 1px solid var(--ink);
+  font-size: 0.9rem;
 }
 ul.project-list > li > a:hover,
 ul.project-list > li > a:focus-visible { color: var(--muted); border-color: var(--muted); }
