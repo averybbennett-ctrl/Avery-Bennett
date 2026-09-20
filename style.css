@@ -1,74 +1,141 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@400;600&family=Josefin+Sans:wght@300;400&display=swap');
-
 :root {
-  font-size: 16px;   /* now 1rem = 14px everywhere */
+  --ink: #262524;
+  --paper: #faf8f5;
+  --muted: #6f6a63;
+  --rule: rgba(38,37,36,0.2);
 }
+
+* { box-sizing: border-box; }
 
 body {
-  font-family: 'Libre Baskerville', serif;
-  line-height: 1.75;
-  color: #111;
-  max-width: 100%;
-  margin: 48px 0;
-  padding: 0 48px;
-  background: #ffffff;
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Work Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Nav */
 nav {
   display: flex;
   align-items: center;
-  gap: 0;
-  border-top: 1px solid #378ADD;
-  border-bottom: 1px solid #378ADD;
-  padding: 0.75rem 0;
-  margin-bottom: 2.5rem;
+  gap: 1.25rem;
+  padding: 1.5rem 2rem;
+  border-bottom: 1px solid var(--rule);
 }
-
 nav a {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
+  color: var(--ink);
+  text-decoration: none;
   font-weight: 600;
-  letter-spacing: 0.03em;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  color: #185FA5;
-  padding: 0 1.25rem;
-}
-
-nav a:hover {
-  color: #111;
-  border-bottom: none !important;
-}
-
-nav a:first-child { padding-left: 0; }
-nav a:last-child { padding-right: 0; }
-
-nav .sep {
-  color: #bbb;
-  font-weight: 300;
   font-size: 0.85rem;
+  letter-spacing: 0.04em;
+}
+nav a:hover, nav a:focus-visible { color: var(--muted); }
+nav .sep { color: var(--rule); }
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 4.5rem 2rem 5rem;
 }
 
-/* Headings replaced by mono labels */
+.masthead {
+  margin-bottom: 3.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 3px double var(--ink);
+}
+
+h1 {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 700;
+  font-size: clamp(2.6rem, 7vw, 3.8rem);
+  line-height: 1.02;
+  margin: 0 0 0.6rem;
+  letter-spacing: -0.01em;
+}
+
+.role {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-style: italic;
+  font-weight: 500;
+  color: var(--muted);
+  font-size: 1.15rem;
+  margin: 0;
+}
+
+section { margin-bottom: 2.75rem; }
+
 h2 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 0.7rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: #185FA5;
-  font-weight: 400;
-  margin-top: 2rem;
-  border: none;
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.4rem;
+  margin: 0 0 0.85rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--ink);
 }
-h1 { font-size: 2rem; font-weight: 600; letter-spacing: -0.02em; margin-bottom: 0.15rem; }
-h3 { font-size: 1rem; font-weight: 600; margin-bottom: 0.15rem; }
 
-/* Links */
-a { color: #185FA5; text-decoration: none; border-bottom: 1px solid #85B7EB; }
-a:hover { border-bottom-color: #185FA5; }
+section p { margin: 0; font-size: 1.05rem; }
 
-/* Publication entries */
-.pub { padding-left: 1rem; border-left: 2px solid #ddd; margin-bottom: 1.25rem; }
-.pub:hover { border-left-color: #378ADD; }
-.pub .venue { font-family: 'Josefin Sans', sans-serif; font-size: 0.75rem; color: #185FA5; }
+.degree { font-weight: 600; font-size: 1.15rem; margin: 0 0 0.35rem; }
+.degree-detail { font-weight: 400; color: var(--muted); margin: 0; }
+
+/* Simple contact-style link lists (used on index.html and links.html) */
+ul.contact { list-style: none; margin: 0; padding: 0; }
+ul.contact li {
+  font-weight: 500;
+  font-size: 1.05rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+ul.contact li:last-child { border-bottom: none; }
+ul.contact a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--ink);
+}
+ul.contact a:hover, ul.contact a:focus-visible { color: var(--muted); border-color: var(--muted); }
+
+/* Project list (used on projects.html) */
+ul.project-list { list-style: none; margin: 0; padding: 0; }
+ul.project-list > li {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--rule);
+}
+ul.project-list > li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+ul.project-list > li > a {
+  font-family: "Bodoni Moda", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--ink);
+}
+ul.project-list > li > a:hover,
+ul.project-list > li > a:focus-visible { color: var(--muted); border-color: var(--muted); }
+
+ul.project-list ul {
+  list-style: disc;
+  margin: 0.9rem 0 0;
+  padding-left: 1.25rem;
+}
+ul.project-list ul li {
+  font-size: 1.02rem;
+  margin-bottom: 0.45rem;
+  color: var(--ink);
+}
+
+/* Plain in-progress list (used on projects.html, "Current Projects") */
+ul.plain-list {
+  list-style: disc;
+  margin: 0;
+  padding-left: 1.25rem;
+}
+ul.plain-list li {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
