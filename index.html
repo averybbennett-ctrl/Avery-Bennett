@@ -1,29 +1,143 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Avery Bennett - Portfolio</title>
-    <link rel="stylesheet" href="style.css">  <!-- move it inside head -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Avery Bennett — Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,500;0,600;0,700;0,800;1,500&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #262524;
+    --paper: #faf8f5;
+    --muted: #6f6a63;
+    --rule: rgba(38,37,36,0.2);
+  }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Work Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    padding: 1.5rem 2rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  nav a {
+    color: var(--ink);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+  }
+  nav a:hover, nav a:focus-visible { color: var(--muted); }
+  nav .sep { color: var(--rule); }
+
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 4.5rem 2rem 5rem;
+  }
+
+  .masthead {
+    margin-bottom: 3.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 3px double var(--ink);
+  }
+
+  h1 {
+    font-family: "Bodoni Moda", Georgia, serif;
+    font-weight: 700;
+    font-size: clamp(3rem, 8.5vw, 4.6rem);
+    line-height: 0.98;
+    margin: 0 0 0.6rem;
+    letter-spacing: -0.01em;
+  }
+
+  .role {
+    font-family: "Bodoni Moda", Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    color: var(--muted);
+    font-size: 1.15rem;
+    margin: 0;
+  }
+
+  section { margin-bottom: 2.75rem; }
+
+  h2 {
+    font-family: "Bodoni Moda", Georgia, serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin: 0 0 0.85rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  section p { margin: 0; font-size: 1.05rem; }
+
+  .degree { font-weight: 600; font-size: 1.15rem; margin: 0 0 0.35rem; }
+  .degree-detail { font-weight: 400; color: var(--muted); margin: 0; }
+
+  ul.contact { list-style: none; margin: 0; padding: 0; }
+  ul.contact li {
+    font-weight: 500;
+    font-size: 1.05rem;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  ul.contact li:last-child { border-bottom: none; }
+  ul.contact a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid var(--ink);
+  }
+  ul.contact a:hover, ul.contact a:focus-visible { color: var(--muted); border-color: var(--muted); }
+</style>
 </head>
 <body>
+
 <nav>
-  <a href="index.html"><b>Home</b></a>
-  <span class="sep">|</span>
+  <a href="index.html">Home</a>
+  <span class="sep">/</span>
   <a href="projects.html">Projects</a>
-  <span class="sep">|</span>
+  <span class="sep">/</span>
   <a href="links.html">Links</a>
 </nav>
 
+<main>
+  <div class="masthead">
     <h1>Avery Bennett</h1>
+    <p class="role">Academic &amp; Professional Portfolio</p>
+  </div>
+
+  <section>
     <h2>About</h2>
     <p>Welcome to my academic and professional portfolio.</p>
+  </section>
+
+  <section>
     <h2>Education</h2>
-    <h3>Honours Economics (BA) Student at the University of Waterloo
-        <br>
-    Econometrics Specialization, Management Minor </h3>
+    <p class="degree">Honours Economics (BA) Student — University of Waterloo</p>
+    <p class="degree-detail">Econometrics Specialization, Management Minor</p>
+  </section>
+
+  <section>
     <h2>Contact</h2>
-    <ul>
-        <li>Email: a4bennet@uwaterloo.ca</li>
-        <li>Email (Personal): avery.bbennett@gmail.com</li>
+    <ul class="contact">
+      <li>Email — <a href="mailto:a4bennet@uwaterloo.ca">a4bennet@uwaterloo.ca</a></li>
+      <li>Personal Email — <a href="mailto:avery.bbennett@gmail.com">avery.bbennett@gmail.com</a></li>
     </ul>
+  </section>
+</main>
+
 </body>
 </html>
